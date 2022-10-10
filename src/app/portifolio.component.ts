@@ -10,5 +10,5 @@ export class PortifolioComponent {
   Objetivo  = 'Aperfeiçoar meus conhecimentos de Front-end e Back-end para eu conseguir juntar os dois conhecimentos e se tornar um FullStack.';
   Tec = 'Manutenção de Hardware, Front-end, Implementação de servidores e Formatação de PCs';
   Curso = 'Estacio (Engenharia de software) / Senac (Tecnico em informatica)';
-  Exp = 'Prefeitura de Nova Iguaçu (Estágio em Informatica) / CCAA (Inglês - Avançado) / Senac (Programação)';
+  Exp = 'Prefeitura de Nova Iguaçu (Estagio em Informatica) / CCAA (Inglês - Avançado) / Senac (Programação)';
 }
