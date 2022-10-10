@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-import { PortifolioComponent } from './app.component';
+import { PortifolioComponent } from './portifolio.component';
 
 @NgModule({
   declarations: [
